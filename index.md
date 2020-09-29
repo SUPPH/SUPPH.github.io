@@ -34,18 +34,14 @@
 
 <h2>Biography</h2>
 <p>
-	I am a postdoctoral research fellow in <a href="https://www.stanford.edu/">Stanford University</a>, working with Prof. <a href="https://med.stanford.edu/xinglab.html">Lei Xing</a>. 
-	Before that, I obtained my Ph.D. degree in the <a href="http://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>, <a href="http://www.cuhk.edu.hk/">The Chinese University of Hong Kong</a>, supervised by <a href="http://www.cse.cuhk.edu.hk/~pheng" target="_blank">Prof. Pheng-Ann Heng</a> and <a href="http://www.cse.cuhk.edu.hk/~cwfu" target="_blank">Prof. Chi-Wing Fu</a> in July 2019. 
-	Previously, I received the B.Eng degree from <a href="http://www.cs.zju.edu.cn/">Department of Computer Science and Technology</a> in <a href="http://www.zju.edu.cn/">Zhejiang University</a> in 2015, under the supervision of <a href="http://www.cad.zju.edu.cn/home/dengcai/">Prof. Deng Cai</a>.
+	我是来自<a href="https://www.ucas.ac.cn/">中国科学院大学</a>的硕士研究生。 此前，我已在<a href="https://www.ustb.edu.cn/">北京科技大学</a>机械工程学院取得工学学士学位。
 </p>
 <p>
-	My research lies at the intersection of artificial intelligence and medical image analysis. 
-	I am dedicated to designing data-efficient learning methods for biomedical image analysis and reconstruction. I also have expertise in deep learning for 3D vision. 
-	Recently, I am working on new learning algorithms while minimizing human supervision (self-supervised, semi-supervised and multi-modality learning) and medical image reconstruction.
+	我现在的工作是对微重力落塔的实验舱的释放方式探索，目前，通过电磁力实现舱体的悬浮然后再对电磁力进行适当的曲线规划简历释放模型，模拟释放实验现象。
 </p> 
 
 <p>
-	If you would like to work with me, feel free to send me an email. Remote collaboration is also welcome!
+	如果你对我的研究感兴趣，请通过邮件与我联系。
 </p>
 
 <h2>Experience</h2>
