@@ -32,7 +32,7 @@
 </table>
 
 
-<h2>Biography</h2>
+<h2>个人简介</h2>
 <p>
 	我是来自<a href="https://www.ucas.ac.cn/">中国科学院大学</a>的硕士研究生。 此前，我已在<a href="https://www.ustb.edu.cn/">北京科技大学</a>机械工程学院取得工学学士学位。
 </p>
@@ -44,114 +44,60 @@
 	如果你对我的研究感兴趣，请通过邮件与我联系。
 </p>
 
-<h2>Experience</h2>
+<h2>项目经历</h2>
 <ul>
 	<li>
-		<div style="float:left; text-align:left">Stanford University, Palo Alto, California, USA</div> <div style="float:right; text-align:right">Nov. 2019 – Present</div><br>
-		Postdoctoral Research Fellow<br>
-		Advisor: <a href="https://med.stanford.edu/xinglab.html">Prof. Lei Xing</a><br>
+		<div style="float:left; text-align:left">微重力落塔舱体电磁悬浮释放项目</div> <div style="float:right; text-align:right">2019.08</div><br>
+		使用SolidWorks进行三自由度电磁悬浮释放模型的设计<br>
+		利用刚体动力学，对三自由度电磁释放模型进行动力学分析，并对模型进行解耦和线性化<br>
+		使用Simulink对线性解耦后的模型进行控制仿真，实现电磁悬浮<br>
+		根据项目释放指标，规划目标舱体释放曲线，使用Simulink进行轨迹仿真<br>
+		在重力环境下实现了在0.15s内的电磁悬浮释放，有效提高了释放水平<br>
 	</li>
 	<li>
-		<div style="float:left; text-align:left">NVIDIA, deep learning for medical imaging research group, Bethesda, Maryland, USA</div> <div style="float:right; text-align:right">Jul. 2018 – Oct. 2018</div><br>
-		Applied Research Intern<br>
-		Topic: Few-shot medical image segmentation<br>
+		<div style="float:left; text-align:left">校摇篮杯</div> <div style="float:right; text-align:right">2017.04</div><br>
+		使用CAD进行的对地侦察航模机械部分的设计及制作部分的书写<br>
+ 		进行每一代版本的比较和创新说明<br>
+ 		获得校摇篮杯三等奖<br>
 	</li>
 	<li>
-		<div style="float:left; text-align:left">Siemens Healthineers, Princeton, New Jersey, USA</div> <div style="float:right; text-align:right">Mar. 2017 – Jul. 2017</div><br>
-		Research Intern<br>
-		Topic: Body landmark detection via deep reinforcement learning<br>
+		<div style="float:left; text-align:left">校内机器人比赛</div> <div style="float:right; text-align:right">2017.05</div><br>
+		使用SolidWorks三维建模软件，进行手动机器人和自动机器人的模型设计以及相关制作<br>
+ 		使用CCD传感器进行路径识别，使用红外传感器进行机器人避障<br>
+ 		担任小组组长，定期总结小组进程，规划比赛过程中的任务及目标<br>
+ 		获得校机器人二等奖<br>
+	</li>
+	<li>
+		<div style="float:left; text-align:left">SRTP可携带可折叠后对式襟翼项目</div> <div style="float:right; text-align:right">2016.11</div><br>
+		使用CAD绘图软件，设计可携带可折叠后对式襟翼结构<br>
+ 		担任小组组长，负责研究报告的总结及项目的进展及规划<br>
+	</li>
+	<li>
+		<div style="float:left; text-align:left">航空航天模型锦标赛</div> <div style="float:right; text-align:right">2016.10</div><br>
+		使用CAD绘图软件，负责机身图纸的绘制以及制作<br>
+ 		使用硬件控制电路，控制航模在飞行过程中自动矫正<br>
+ 		操控摄像头云台，识别地面靶标数字<br>
+ 		获得中国航空航天模型锦标赛一等奖<br>
 	</li>
 </ul>
 
-<h2>Honors &amp; Awards</h2>
+<h2>荣誉与奖项</h2>
 <table style="border-spacing:2px">
 	
-		<tbody>
-		<tr><td> <a href="https://www.cse.cuhk.edu.hk/en/achievement/student/1317-dr-yu-lequan-received-cuhk-young-scholar-thesis-award-2019">CUHK Young Scholars Thesis Award 2019</a></td></tr>
-		<tr><td> Young Scientist Award Short-listed, Hong Kong Institution of Science, 2019 </td></tr>
-		<tr><td> Teaching Assistant of Merit, 2018</td></tr>
-		<tr><td> <a href="http://www.cse.cuhk.edu.hk/en/achievement/professor-and-research-staff/110-prof-heng-pheng-ann-and-his-team-won-the-best-paper-award-of-medical-image-analysis-in-the-20th-international-conference-on-medical-image-computing-and-computer-assisted-intervention-2017-media-miccai-17">MedIA-MICCAI'17 Best Paper Award</a>, 2017</td></tr>
-    	<tr><td> AAAI Scholarship, San Fransisco, USA, 2017</td></tr>
-    	<tr><td> <a href="https://refuge.grand-challenge.org/Home/">Champion, Optic Disc&Cup Segmentation on Retinal Fundus Images (REFUGE 2018)</a> </td></tr>
-    	<tr><td> <a href="http://segchd.csail.mit.edu/">Champion, Whole-Heart and Great Vessel Segmentation (HVSMR 2016)</a> </td></tr>
-		<tr><td> <a href="https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba">Champion, Skin Lesion Analysis Towards Melanoma Detection Challenge (ISIC 2016)</a> </td></tr>
-		<tr><td> <a href="https://promise12.grand-challenge.org/Home/">Champion, Prostate MR Image Segmentation 2012 (PROMISE12, until 2018 Jan.)</a> </td></tr>
-    	<tr><td> National Scholarship in China (1.8%), 2012-2014</td></tr>
-		<tr><td> He Zhijun Scholarship (<b>1/300+</b>, Highest Honor in College of Computer Science, Zhejiang University), 2014</td></tr>
-		<tr><td> Kwanjeong Educational Foundation Scholarship, 2012-2014</td></tr>
-		<tr><td> Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application, 2014</td></tr>
-		<tr><td> The Outstanding Undergraduate Award (Awarded by CCF, 100 undergraduates every year in China), 2014</td></tr>
-		<tr><td> Outstanding Graduates of Zhejiang University, 2015</td></tr>
-	</tbody>
-</table>
-
-
-<h2>Professional Activities</h2>
-<li>	
-	<b>Conference Reviews:</b>
-	<br>
-	AAAI Conference on Artificial Intelligence (AAAI) 2021<br>
-	IEEE Winter Conference on Applications of Computer Vision (WACV) 2021<br>
-	SIGGRAPH 2020<br>
-	European Conference on Computer Vision (ECCV) 2020<br>
-	International Conference on Computer Vision and Pattern Recognition (CVPR) 2020<br>
-	AAAI Conference on Artificial Intelligence (AAAI) 2020<br>
-	IEEE Winter Conference on Applications of Computer Vision (WACV) 2020<br>
-	International Conference on Computer Vision (ICCV) 2019<br>
-	International Conference on Computer Vision and Pattern Recognition (CVPR) 2019<br>
-	International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2019<br>
-	International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2018<br>
-	<p style="margin-top:3px"></p>		
-</li>
-
-<li>
-<b>Journal Reviews:</b>
-	<br>
-	Nature Machine Intelligence <br>
-	Medical Image Analysis (MedIA)<br>
-	IEEE Transactions on Medical Imaging (TMI)<br>
-	IEEE Transactions on Image Processing (TIP)<br>
-	IEEE Transactions on Biomedical Engineering (TBME)<br>
-	IEEE Transactions on Neural Networks and Learning Systems (TNNLS) <br>
-	IEEE Transactions on Automation Science and Engineering (TASE) <br>
-	IEEE Transactions on Artificial Intelligence (TAI) <br>
-	IEEE Transactions on Big Data (TBD) <br>
-	IEEE Journal of Biomedical and Health Informatics (JBHI)<br>
-	IEEE Robotics and Automation Letters (RA-L)<br>
-	Scientific Reports <br>
-	Neurocomputing <br>		
-	International Journal of Computer Assisted Radiology and Surgery (IJCARS)<br>
-	International Journal of Medical Informatics<br>
-	Journal of Applied Clinical Medical Physics (JACMP) <br>
-	Artificial Intelligence in Medicine<br>
-	SPIE Journal of Electronic Imaging (JEI)<br>
-	Computer Methods and Programs in Biomedicine (CMPB)<br>
-	Informatics in Medicine Unlocked<br>
-	<p style="margin-top:3px"></p>		
-</li>
-
-
-<h2>Teaching</h2>
-<table id="tbTeaching" border="0" width="100%">
-	<tbody>
-		<tr>
-			<td> 2015-2016</td><td>Fall</td><td>CSCI1130 Introduction to Computing Using Java</td>
-		</tr>
-		<tr>
-			<td> 2015-2016</td><td>Spring</td><td>CSCI3180 Principles of Programming Languages</td>
-		</tr>
-		<tr>
-			<td> 2016-2017</td><td>Fall</td><td>ENGG5108 Big Data Analytics</td>
-		</tr>
-        	<tr>
-			<td> 2016-2017</td><td>Spring</td><td>CSCI3150 Introduction to Operating Systems</td>
-		</tr>
-		<tr>
-			<td> 2017-2018</td><td>Fall</td><td>CSCI3150 Introduction to Operating Systems</td>
-		</tr>
-		<tr>
-			<td> 2017-2018</td><td>Spring</td><td>CSCI3150 Introduction to Operating Systems</td>
-		</tr>
+	<tbody>		
+		<tr><td>国家励志奖学金，2018</td></tr>
+		<tr><td>优秀三好学生，2018</td></tr>
+		<tr><td>国家励志奖学金，2017</td></tr>
+		<tr><td>优秀三好学生，2017</td></tr>
+		<tr><td>校摇篮杯三等奖，2017</td></tr>
+		<tr><td>校机器人二等奖，2017</td></tr>
+		<tr><td>国家励志奖学金，2016</td></tr>
+		<tr><td>优秀三好学生，2016</td></tr>
+		<tr><td>中国航空航天模型锦标赛一等奖，2016</td></tr>
+		<tr><td>全国部分地区北京赛区物理竞赛三等奖，2016</td></tr>
+		<tr><td>校数学竞赛二等奖，2015</td></tr>
+		<tr><td>优秀三好学生，2015</td></tr>
+		<tr><td>国家励志奖学金，2015</td></tr>		
 	</tbody>
 </table>
 
