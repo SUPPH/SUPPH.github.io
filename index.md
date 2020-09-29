@@ -6,17 +6,16 @@
 		<tr>
 			<td width="670">
 				<div id="toptitle">					
-					<h1>Lequan Yu</h1><h1>
+					<h1>蒲浩</h1><h1>
 				</h1></div>
 
-				<h3>Postdoctoral Research Fellow</h3>
+				<h3>硕士研究生</h3>
 				<p>
-					1070 Arastradero Road, <br>
-					Dept. of Radiation Oncology<br>
-					Stanford University <br>
-					Palo Alto, CA 94304<br>
+					中国科学院大学<br>
+					中国科学院空间应用工程与技术中心<br>
+					北京市海淀区邓庄南路9号<br>
 					<br>
-					Email: lequany at stanford dot edu
+					Email: puhao18@csu.ac.cn 
 				</p>
 				<p> <a href="https://scholar.google.com/citations?hl=en&user=llXf3wUAAAAJ&view_op=list_works&sortby=pubdate"><img src="./pic/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>
 					<a href="https://github.com/yulequan"><img src="./pic/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>
@@ -26,7 +25,7 @@
 				</p>
 			</td>
 			<td>
-				<img src="./pic/lequan.png" border="0" width="240"><br>
+				<img src="./life.jpg" border="0" width="240"><br>
 			</td>
 		</tr><tr>
 	</tr></tbody>
